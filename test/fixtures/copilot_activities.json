@@ -1,0 +1,136 @@
+{
+  "activities": [
+    {
+      "type": "message",
+      "id": "activity-0",
+      "timestamp": "2026-09-28T03:38:48.1874397Z",
+      "from": {
+        "id": "user"
+      },
+      "text": "How is fidyah calculated?"
+    },
+    {
+      "type": "message",
+      "id": "activity-1",
+      "timestamp": "2026-09-28T03:39:00.3981146Z",
+      "from": {
+        "id": "bot",
+        "role": "bot"
+      },
+      "textFormat": "markdown",
+      "text": "Cara pengiraan fidyah menurut rujukan rasmi JAKIM adalah seperti berikut:\n\n**Kaedah Pengiraan Fidyah**\n- Kadar bayaran fidyah adalah sebanyak RM4.00 untuk satu hari puasa yang ditinggalkan. Kadar ini berdasarkan nilai 1/2 gantang gandum iaitu sebanyak RM3.00 dan satu ringgit tambahan sebagai langkah berjaga-jaga.\n- Jika seseorang meninggalkan puasa dan tidak menggantikan puasa tersebut sehingga masuk tahun berikutnya, fidyah perlu digandakan mengikut bilangan tahun yang ditinggalkan.\n- Bayaran fidyah boleh dibuat menggunakan mata wang dengan syarat ia ditukarkan kepada bahan makanan untuk diagihkan kepada golongan fakir dan miskin[1]​[2].\n\nContoh pengiraan:\n- Jika seseorang meninggalkan 5 hari puasa dan tidak menggantikan selama 2 tahun, pengiraan fidyah adalah: 5 hari x 2 tahun x RM4.00 = RM40.00.\n\nUntuk pengesahan lanjut, sila rujuk laman web rasmi JAKIM di www.islam.gov.my\n\n[1]: cite:1 \"Citation-1\"\n[2]: cite:2 \"Citation-2\"",
+      "entities": [
+        {
+          "type": "https://schema.org/Message",
+          "citation": [
+            {
+              "appearance": {
+                "text": ". Hukum melihat anak bulan melalui mata kasar dengan bantuan peralatan optik adalah harus; 2. Kenampakan anak bulan menggunakan teknik pengimejan adalah diharuskan dengan parameter yang ditetapkan oleh JAKIM melalui Garis Panduan/ Tatacara Pensabitan Kenampakan Anak Bulan Menerusi Teknik Pengimejan;",
+                "abstract": "JAKIM 1.pdf",
+                "@type": "DigitalDocument",
+                "name": "JAKIM 1.pdf"
+              },
+              "position": 1,
+              "@type": "Claim",
+              "@id": "turn11search2"
+            },
+            {
+              "appearance": {
+                "text": ". Kerusi yang digunakan hendaklah bersaiz kecil dan tidak terlalu besar, ini supaya keseragaman saf dapat dijaga serta memberikan keselesaan bagi jemaah yang lain. 11/19/25, 4:39 PM JA KIM : CIRi https://ciri.islam.gov.my/view /f atw a_cetak.php?id=15910 1/1 Kategori: Tahun: 2018 Status Pewartaan: T",
+                "abstract": "JAKIM 3.pdf",
+                "@type": "DigitalDocument",
+                "name": "JAKIM 3.pdf"
+              },
+              "position": 2,
+              "@type": "Claim",
+              "@id": "turn11search3"
+            }
+          ],
+          "@type": "Message",
+          "@id": "",
+          "additionalType": [
+            "AIGeneratedContent"
+          ],
+          "@context": "https://schema.org"
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "id": "activity-2",
+      "timestamp": "2026-09-28T03:40:47.7530352Z",
+      "from": {
+        "id": "user"
+      },
+      "text": "Apakah kadar zakat fitrah di Wilayah Persekutuan tahun ini? Berikan pautan laman web rasmi."
+    },
+    {
+      "type": "message",
+      "id": "activity-3",
+      "timestamp": "2026-09-28T03:41:00.0661437Z",
+      "from": {
+        "id": "bot",
+        "role": "bot"
+      },
+      "textFormat": "markdown",
+      "text": "Kadar zakat fitrah di Wilayah Persekutuan Kuala Lumpur, Putrajaya dan Labuan bagi tahun 1438H/2017M adalah sebanyak RM7.00. Penetapan kadar ini berdasarkan harga 1 kilogram Beras Super Spesial Tempatan 5% iaitu RM2.60 didarabkan dengan 2.70 kg, lalu digenapkan kepada RM7.00. Kadar ini juga selaras dengan keputusan Majlis Fatwa Kebangsaan yang membenarkan pembayaran zakat fitrah dengan beras atau wang tunai yang setara nilainya. Untuk maklumat lanjut dan pengesahan, anda boleh merujuk laman web rasmi JAKIM.\n\nUntuk pengesahan lanjut, sila rujuk laman web rasmi JAKIM di www.islam.gov.my [1]​[2]​[3].\n\n[1]: cite:1 \"Citation-1\"\n[2]: cite:2 \"Citation-2\"\n[3]: cite:3 \"Citation-3\"",
+      "entities": [
+        {
+          "type": "https://schema.org/Message",
+          "citation": [
+            {
+              "appearance": {
+                "text": ". 4/2019YANG TELAH BERSIDANG PADA 21DAN 22 OGOS 2019TELAH MEMUTUSKAN: PENGGUNAAN SET PANDUAN SOLAT UNTUK GOLONGAN MUALAF EDARAN PERTUBUHAN PENYEBARAN ISLAM ANTARABANGSA, PULAU PINANG (ISLAMIC PROPAGATION SOCIETY INTERNATIONAL - IPSI) ADALAH HARUS, DENGAN SYARAT: 1. PENGGUNAAN SET PANDUAN SOLAT TERSE",
+                "abstract": "JAKIM 4.pdf",
+                "@type": "DigitalDocument",
+                "name": "JAKIM 4.pdf"
+              },
+              "position": 1,
+              "@type": "Claim",
+              "@id": "cite:1"
+            },
+            {
+              "appearance": {
+                "text": ". 157 bertarikh 8 Jun 2000 dibatalkan menurut kuasa subseksyen 50(1) Enakmen 2. 11/19/25, 4:20 PM JA KIM : CIRi https://ciri.islam.gov.my/view /f atw a_cetak.php?id=16064 3/3 Kategori: Tahun: 2016 Status Pewartaan: Tidak Diwartakan Negeri: Wilayah Persekutuan Penetapan Kadar Zakat Fitrah Di Wilayah ",
+                "abstract": "JAKIM 3.pdf",
+                "@type": "DigitalDocument",
+                "name": "JAKIM 3.pdf"
+              },
+              "position": 2,
+              "@type": "Claim",
+              "@id": "cite:2"
+            },
+            {
+              "appearance": {
+                "text": ". AKTIVITI YANG MELIBATKAN ORANG BUKAN ISLAM DI KAWASAN MASJID TIDAK DILAKSANAKAN PADA HARI PERAYAAN MEREKA ATAU BERSEMPENA DENGAN PERAYAAN TERSEBUT. 2. ORANG BUKAN ISLAM TERSEBUT SEBAIKNYA TIDAK MEMAKAI PAKAIAN ATAU MEMBAWA SEBARANG ALATAN ATAU SIMBOL YANG KHUSUS BAGI AGAMA MEREKA. 3. ORANG BUKAN I",
+                "abstract": "JAKIM 2.pdf",
+                "@type": "DigitalDocument",
+                "name": "JAKIM 2.pdf"
+              },
+              "position": 3,
+              "@type": "Claim",
+              "@id": "cite:3"
+            }
+          ],
+          "@type": "Message",
+          "@id": "",
+          "additionalType": [
+            "AIGeneratedContent"
+          ],
+          "@context": "https://schema.org"
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "id": "activity-4",
+      "timestamp": "2026-09-28T03:41:00.115876Z",
+      "from": {
+        "id": "bot",
+        "role": "bot"
+      },
+      "textFormat": "markdown",
+      "text": "=Topic.Answer"
+    }
+  ]
+}
